@@ -32,4 +32,6 @@ Sample Output:
 WE, THE PEOPLE OF INDIA,
 having solemnly resolved to constitute India into a SOVEREIGN, !
 SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC
-and to secure to all its citizens
+and to secure to all its citizens.
+
+I have done all the 4 questions and screenshots of the output has been attached.
